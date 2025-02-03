@@ -1,1 +1,1 @@
-# Restaurant_db_query
+# Restaurant database queries with SQL.
