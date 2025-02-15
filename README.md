@@ -1,2 +1,4 @@
-# Restaurant database queries with SQL.
+# Restaurant Database Queries
+
+### SQL
 
