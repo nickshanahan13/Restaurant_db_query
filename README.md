@@ -1,6 +1,6 @@
 # Restaurant Database Queries
 
-### SQL
+### Creating Database 
 
 ```sql
 DROP SCHEMA IF EXISTS restaurant_db;
